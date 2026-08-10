@@ -6,5 +6,6 @@ public class arquivoJava {
         String osVersion = System.getProperty("os.version");
         System.out.println("Running Java Version "+version+"\n");
         System.out.println("Operational System in use: " + osVersion + "" );
+        System.out.println("System made by Enrico Lazzari");
     }
 }
