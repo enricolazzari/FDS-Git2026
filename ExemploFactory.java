@@ -1,4 +1,4 @@
-import java.util.function;
+import java.util.function.Function;
 
 public class ExemploFactory {
 
