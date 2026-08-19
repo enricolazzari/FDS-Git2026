@@ -1,3 +1,4 @@
+package Exercicio1;
 
 public class arquivoJava {
     public static void main(String[] args) throws Exception {
