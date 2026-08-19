@@ -1,3 +1,5 @@
+package Exercicio1;
+
 /**
  * Factory responsavel por centralizar a criacao das implementacoes
  * de Codificador, sem que o cliente precise conhecer as classes concretas.
