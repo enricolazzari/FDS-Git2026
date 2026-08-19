@@ -1,3 +1,4 @@
+package Exercicio1;
 import java.util.function.Function;
 
 public class ExemploFactory {
